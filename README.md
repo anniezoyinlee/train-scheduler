@@ -18,4 +18,4 @@ Homework Instructions:
   
   * Styling and theme are completely up to you. Get Creative!
 
-  Click here to see the train schedule 👉🏻 https://anniezoyinlee.github.io/Train-Schedule/
+  Click here to see the train schedule 👉🏻 https://anniezoyinlee.github.io/train-scheduler/
