@@ -1,4 +1,4 @@
-# Firebase Assignment - Train Scheduler (Basic - Recommended)
+# Firebase Assignment - Train Scheduler
 
 Homework Instructions: 
 
