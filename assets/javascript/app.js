@@ -87,6 +87,6 @@ database.ref().on("child_added", function (childSnapshot) {
 
   console.log(trainName, trainDestination, minutesTillArrival, nextTrainTime, trainFrequency)
 
-  $("#table-data").append("<tr><td>" + trainName + "</td><td>" + trainDestination + "</td><td>" + minutesTillArrival + "</td><td>" + nextTrainTime + "</td><td>" + trainFrequency + "</td></tr>");
+  $("#table-data").append("<tr><td>" + trainName + "</td><td>" + trainDestination + "</td><td>" + trainFrequency + "</td><td>" + nextTrainTime + "</td><td>" + minutesTillArrival + "</td></tr>");
 
 });
